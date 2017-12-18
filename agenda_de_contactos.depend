@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1435870595 source:c:\users\kelly balbuena\desktop\agenda_de_contactos\contacto.cpp
+	"Contacto.h"
+	<iostream>
+	<iomanip>
+
+1435870587 c:\users\kelly balbuena\desktop\agenda_de_contactos\contacto.h
+	<string>
+	<exception>
+
+1435905356 source:c:\users\dante-esmaily\desktop\agenda_de_contactos\contacto.cpp
+	"Contacto.h"
+	<iostream>
+	<iomanip>
+
+1435987224 c:\users\dante-esmaily\desktop\agenda_de_contactos\contacto.h
+	<string>
+	<exception>
+
+1435996287 source:c:\users\dante-esmaily\desktop\agenda_de_contactos\lector.cpp
+	"Lector.h"
+
+1435995855 c:\users\dante-esmaily\desktop\agenda_de_contactos\lector.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	"Contacto.h"
+
+1435868713 source:c:\users\dante-esmaily\desktop\agenda_de_contactos\serializador.cpp
+	"Serializador.h"
+
+1435868831 c:\users\dante-esmaily\desktop\agenda_de_contactos\serializador.h
+	"Contacto.h"
+
+1435987360 source:c:\users\dante-esmaily\desktop\agenda_de_contactos\main.cpp
+	<iostream>
+	<cstdlib>
+	"Lector.h"
+
